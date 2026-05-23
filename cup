@@ -1,0 +1,7 @@
+# ! /bin/bash
+name="Tess"
+echo "hello,$name"
+# A simple script to greet the user"
+echo "what is your name ?"
+read name
+echo "hello,$name! welcoe to shell scripting"
